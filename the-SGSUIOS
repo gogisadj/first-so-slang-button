@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>radical</title>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script type="text/javascript" src="http://yourjavascript.com/80150321211/sup-dawg.js"></script>
+	</head>
+	<body>
+		<h1>The Slang Button</h1>
+		<button id="work">Press for cool slang</button>
+		<p>This button will give you a sweet and hip slang word. Click it many times, then string all the words together into an incoherent sentence for your friends' amusement.</p>
+	</body>
+</html>
